@@ -16,19 +16,19 @@
 
 <p align="left">
 <a href="https://github.com/pedro-varela1/ML_ConvolucionalNN_Cat-Dog_Classification">
-  Cat-Dog Machine Learning Classification
+- Cat-Dog Machine Learning Classification
 </a>
   
 <a href="https://github.com/pedro-varela1/Premier_League_2018-2019_Player_Analyses">
-  Premier League Data Analyses
+- Premier League Data Analyses
 </a>
 
 <a href="https://github.com/pedro-varela1/canucontrol">
-  Server to Control the game "Can U Control"
+- Server to Control the game "Can U Control"
 </a>
 
 <a href="https://github.com/pedro-varela1/Titanic-MachineLearning-Kaggle">
-  Titanic Survived Prediction Machine Learning
+- Titanic Survived Prediction Machine Learning
 </a>
 </p>
 
