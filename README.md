@@ -27,9 +27,9 @@
 - Server to Control the game "Can U Control"
 </a>
 
-<a href="https://github.com/pedro-varela1/Titanic-MachineLearning-Kaggle">
-- Titanic Survived Prediction Machine Learning
-</a>
+- <a href="https://github.com/pedro-varela1/Titanic-MachineLearning-Kaggle"> Titanic Survived Prediction Machine Learning </a>
+
+- href[][]
 </p>
 
 ---
