@@ -37,7 +37,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 [![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;][c]
 [![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;][c++]
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;]
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=Mathworks)&nbsp;
 
