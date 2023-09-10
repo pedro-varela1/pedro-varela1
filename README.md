@@ -5,9 +5,10 @@
 
 ### 👨🏻‍💻 About Me
 
-- 💻 I am a 3rd year electrical engineering undergrad at Universidade Federal do Rio Grande do Norte (UFRN).
-- 🔭 Currently working as a researcher in embedded artificial intelligence for applications in control and automation.
-- 🌱 I am currently learning computer vision techniques on Smart Homes.
+- I am a 3rd year electrical engineering undergrad at Universidade Federal do Rio Grande do Norte (UFRN).
+- Currently working as a researcher applying artificial intelligence to analyze vocal communication.
+- Experience in applying artificial intelligence to embedded systems within the scope of control and automation.
+- I am currently learning computer vision techniques.
 - ⚡ Studying Electrical Engineering makes me happy.
 
 ---
