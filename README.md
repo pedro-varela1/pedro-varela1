@@ -9,4 +9,5 @@
 - Currently working as a researcher applying artificial intelligence to analyze vocal communication.
 - Experience in applying artificial intelligence to embedded systems within the scope of control and automation.
 - I am currently learning computer vision techniques.
+
 ⚡ Studying Electrical Engineering makes me happy.
