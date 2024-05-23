@@ -6,7 +6,8 @@
 ### 👨🏻‍💻 About Me
 
 - I am a 4th year electrical engineering undergrad at Universidade Federal do Rio Grande do Norte (UFRN).
-- Currently working as a researcher applying artificial intelligence to analyze vocal communication.
+- Currently working as a researcher applying artificial intelligence in a 5G public security system (Automatic License Plate Recognition and Face Recognition).
+- Experience in applying  artificial intelligence to analyze vocal communication.
 - Experience in applying artificial intelligence to embedded systems within the scope of control and automation.
 - I am currently learning computer vision techniques.
 
