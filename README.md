@@ -1,14 +1,11 @@
 ### Hi there, I'm Pedro Varela 👋
 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCJWMB7BR00CWBXTYzBzI5lA/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-varela-263016247/)
 
 ### 👨🏻‍💻 About Me
 
-- I am a 4th year electrical engineering undergrad at Universidade Federal do Rio Grande do Norte (UFRN).
-- Currently working as a researcher applying artificial intelligence in a 5G public security system (Automatic License Plate Recognition and Face Recognition).
+- Master's student in Electronic and Computer Engineering at Technological Institute of Aeronautics (ITA)
+- Research related to intelligent satellite navigation.
+- Experience applying artificial intelligence in a 5G public security system (Automatic License Plate Recognition and Face Recognition).
 - Experience in applying  artificial intelligence to analyze vocal communication.
 - Experience in applying artificial intelligence to embedded systems within the scope of control and automation.
-- I am currently learning computer vision techniques.
-
-⚡ Studying Electrical Engineering makes me happy.
