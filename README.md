@@ -4,7 +4,6 @@
 
 ### 👨🏻‍💻 About Me
 
-- Master's student in Electronic and Computer Engineering at Technological Institute of Aeronautics (ITA)
 - Research related to intelligent satellite navigation.
 - Experience applying artificial intelligence in a 5G public security system (Automatic License Plate Recognition and Face Recognition).
 - Experience in applying  artificial intelligence to analyze vocal communication.
